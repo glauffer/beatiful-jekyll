@@ -1,3 +1,8 @@
+# Personal website
+
+Gabriel's personal website based on the [Beatiful Jekyll](https://github.com/daattali/beautiful-jekyll) theme.
+
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
@@ -29,12 +34,12 @@
 
 ## Prerequisites
 
-- You need to have a GitHub account. If you don't have one, [sign up here](https://github.com/join) - it takes one minute. This is where your website will live - if you sign up with username `johnsmith` then your website will be `http://johnsmith.github.io`.  
+- You need to have a GitHub account. If you don't have one, [sign up here](https://github.com/join) - it takes one minute. This is where your website will live - if you sign up with username `johnsmith` then your website will be `http://johnsmith.github.io`.
 - It would be helpful to understand what Markdown is and how to write it. Markdown is just a way to take a piece of text and format it to look a little nicer.  For example, this whole instruction set that you're reading is written in markdown - it's just text with some words being bold/larger/italicized/etc. I recommend taking 5 minutes to learn markdown [with this amazingly easy yet useful tutorial](http://markdowntutorial.com/).
 
 ## Build your website in 3 steps
 
-Getting started is *literally* as easy as 1-2-3 :smile:   
+Getting started is *literally* as easy as 1-2-3 :smile:
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps.
 
 ![Installation steps](img/install-steps.gif)
@@ -139,7 +144,7 @@ comments    | If you want do add Disqus comments to a specific page, use `commen
 show-avatar | If you have an avatar configured in the `_config.yml` but you want to turn it off on a specific page, use `show-avatar: false`. If you want to turn it off by default, locate the line `show-avatar: true` in the file `_config.yml` and change the `true` to `false`; then you can selectively turn it on in specific pages using `show-avatar: true`.
 share-img   | If you want to specify an image to use when sharing the page on Facebook or Twitter, then provide the image's full URL here.
 social-share | If you don't want to show buttons to share a blog post on social media, use `social-share: false` (this feature is turned on by default).
-layout      | What type of page this is (default is `blog` for blog posts and `page` for other pages. You can use `minimal` if you don't want a header and footer)  
+layout      | What type of page this is (default is `blog` for blog posts and `page` for other pages. You can use `minimal` if you don't want a header and footer)
 js          | List of local JavaScript files to include in the page (eg. `/js/mypage.js`)
 ext-js      | List of external JavaScript files to include in the page (eg. `//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js`)
 css         | List of local CSS files to include in the page
@@ -210,8 +215,8 @@ Beautiful Jekyll is meant to be so simple to use that you can do it all within t
     ```
 4. View your website at <http://localhost:4000>.
 
-Disclaimer: I personally am NOT using local development so I don't know much about running Jekyll locally. If you follow this route, please don't ask me questions because unfortunately I honestly won't be able to help!		
-  		  
+Disclaimer: I personally am NOT using local development so I don't know much about running Jekyll locally. If you follow this route, please don't ask me questions because unfortunately I honestly won't be able to help!
+
 Aditionally, if you choose to deploy Jekyll using a local ruby installation, you can tell Jekyll to automatically categorize your blog posts by tags. You just need to set `link-tags: true` in `_config.yml`. Jekyll will then generate a new page for each unique tag which lists all of the posts that belong to that tag.
 
 
