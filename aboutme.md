@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: "Gabriel Lauffer"
+subtitle: "Astrophysics M.A. student"
+meta-title: "Gabriel Lauffer - M.A. student"
+bigimg:
+  - "/img/hubble_nasa.jpg" : "Photo Credit: Hubble Space Telescope - NASA"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Welcome!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello, my name is Gabriel and I'm a Astrophysics M.A. student at the [Universidade Federal do Rio Grande do Sul - UFRGS](http://www.if.ufrgs.br/posfis/index.php). I work together with [Dr. Alejandra Romero](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Romero,%20A.%20D.&db_key=AST) and [Dr. S.O. Kepler](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Kepler,%20S.%20O.&db_key=AST) studying the evolution of massive white dwarfs.
 
-What else do you need?
+I have Bsc physics degree from the [Universidade Federal do Rio Grande - FURG](http://furg.br). Part time of my undergrad studies was performed at [State University of New York at Oswego - SUNY Oswego](http://www.oswego.edu/) thanks to the [Science Without Borders Program](http://www.cienciasemfronteiras.gov.br/web/csf-eng/).
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have experience on computational astrophysics working with variable stars and methods to detect periodicities in the light curves of those type of stars. I wrote a algorithm to calculate periods of pulsation for Cepheids and RR Lyrae stars as part of my final project for my undergrad studies.
